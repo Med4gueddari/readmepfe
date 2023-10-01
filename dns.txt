@@ -1,0 +1,45 @@
+	Microsoft Windows [version 10.0.14393]
+	(c) 2016 Microsoft Corporation. Tous droits réservés.
+
+	C:\Users\Administrator>ipconfig/all
+
+	Configuration IP de Windows
+
+   Nom de lhôte . . . . . . . . . . : FRHY0001CLSS06
+   Suffixe DNS principal . . . . . . : dg.carrefour.com
+   Type de noeud. . . . . . . . . .  : Hybride
+   Routage IP activé . . . . . . . . : Non
+   Proxy WINS activé . . . . . . . . : Non
+   Liste de recherche du suffixe DNS.: dg.carrefour.com
+                                       ho.fr.wcorp.carrefour.com
+                                       carrefour.com
+
+	Carte Ethernet Ethernet :
+
+   Suffixe DNS propre à la connexion. . . : dg.carrefour.com
+   Description. . . . . . . . . . . . . . : Intel(R) Ethernet Connection I217-LM
+   Adresse physique . . . . . . . . . . . : E0-4F-43-54-B2-11
+   DHCP activé. . . . . . . . . . . . . . : Non
+   Configuration automatique activée. . . : Oui
+   Adresse IPv6 de liaison locale. . . . .: fe80::89c5:309d:25b1:546e%4(préféré)
+   Adresse IPv4. . . . . . . . . . . . . .: 10.34.82.155(préféré)
+   Masque de sous-réseau. . . . . . . . . : 255.255.254.0
+   Passerelle par défaut. . . . . . . . . : 10.34.83.254
+   IAID DHCPv6 . . . . . . . . . . . : 65032003
+   DUID de client DHCPv6. . . . . . . . : 00-01-00-01-24-3E-60-EF-E0-4F-43-54-B2-11
+   Serveurs DNS. . .  . . . . . . . . . . : 10.48.241.1
+                                       10.54.76.1
+                                       10.48.241.2
+                                       10.48.241.3
+   NetBIOS sur Tcpip. . . . . . . . . . . : Activé
+
+	Carte Tunnel isatap.dg.carrefour.com :
+
+   Statut du média. . . . . . . . . . . . : Média déconnecté
+   Suffixe DNS propre à la connexion. . . : dg.carrefour.com
+   Description. . . . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Adresse physique . . . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP activé. . . . . . . . . . . . . . : Non
+   Configuration automatique activée. . . : Oui
+
+	C:\Users\Administrator> 
